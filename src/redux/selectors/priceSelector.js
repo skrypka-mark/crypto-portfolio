@@ -1,0 +1,1 @@
+export const priceSelector = ({ priceReducer }) => priceReducer.prices;
